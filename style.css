@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:burlywood;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+table{
+    border-collapse:collapse;
+}
+
+td{
+    border:1px solid black;
+    padding: 10px;
+}
+p {
+    font-size: 20px;
+}
+
+footer {
+     background-color:burlywood;
+    color: white;
+}
+
+header img {
+    width: 70px;
+    height: 70px;
+}
+
+h1 img{
+    width: 150px;
+    height: 150px;  
+}
+
+p img{
+    width: 100px;
+    height: 100px;
+    }
+    .folter {
+        height: 450px;
+        width: 450px;
+    }
